@@ -1,2 +1,0 @@
-# AFNYCIOS.github.io
-WebSDKTest
